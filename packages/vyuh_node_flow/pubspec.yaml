@@ -28,7 +28,7 @@ resolution: workspace
 
 dependencies:
   collection: ^1.19.1
-  equatable: ^2.1.0
+  equatable: ">=2.1.0 <4.0.0"
   flutter:
     sdk: flutter
   flutter_mobx: ^2.3.0
